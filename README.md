@@ -1,6 +1,7 @@
 # Block World Problem
 
 Introduction to the block world problem
+
 ![image](https://user-images.githubusercontent.com/54510650/170856153-d6f39a0d-7142-47e4-9f31-33338be0bd6a.png)
 
 There is a table on which some blocks are placed. Some blocks may or may not be
@@ -59,5 +60,3 @@ For the following problem:
 
 ![image](https://user-images.githubusercontent.com/54510650/170856261-869cdb46-b3a3-483a-a102-d182a9cfacba.png)
 
-
-main stack is empty.
