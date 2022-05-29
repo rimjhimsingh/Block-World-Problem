@@ -54,6 +54,7 @@ goal stack, and saves the necessary actions in a queue, which is displayed when 
 Working of the program:
 
 For the following problem:
+
 ![image](https://user-images.githubusercontent.com/54510650/170856278-c20f567b-7825-4a0c-a8ec-1c39f35cfbd7.png)
 
 ![image](https://user-images.githubusercontent.com/54510650/170856239-edc4fda3-3f19-4615-88bb-25cf6832dcad.png)
